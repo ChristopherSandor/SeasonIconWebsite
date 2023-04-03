@@ -1,0 +1,33 @@
+.navbar{
+    height: 5vw;
+    background-color: #F3DFC1!important;
+}
+.navbar-brand{
+    font-size: 2vw;
+    color: white!important;
+}
+.heightFillerTwo{
+    height: 6vw;
+}
+.card-img-top{
+    height: 75%;
+    width: 75%;
+}
+.card{
+    height: 825px;
+    text-align: center;
+    margin-left: auto;
+    display: block;
+}
+#springCard{
+    background-color: #90Be6d;
+}
+#summerCard{
+    background-color: #f9c74f;
+}
+#fallCard{
+    background-color: #f9844A;
+}
+#winterCard{
+    background-color: #577590;
+}
