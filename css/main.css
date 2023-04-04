@@ -1,6 +1,9 @@
 .navbar{
     height: 5vw;
-    background-color: #F3DFC1!important;
+    background-color: #E69E5F!important;
+}
+body{
+    background-color: #FDD69B;
 }
 .navbar-brand{
     font-size: 2vw;
@@ -18,6 +21,8 @@
     text-align: center;
     margin-left: auto;
     display: block;
+    border-color: black;
+    border-width: 0px;
 }
 #springCard{
     background-color: #90Be6d;
@@ -29,5 +34,11 @@
     background-color: #f9844A;
 }
 #winterCard{
-    background-color: #577590;
+    background-color: #8ecae6;
+}
+.navbar-header-text{
+    font-family: 'Libre Baskerville', serif;
+}
+.card-title{
+font-family: 'Playfair Display', serif;   
 }
